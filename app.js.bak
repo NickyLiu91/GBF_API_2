@@ -1,5 +1,6 @@
 const express = require('express')
-const router = express.Router()
+// const router = express.Router()
+const app = express()
 const mongoose = require('mongoose')
 const bodyparser = require('body-parser')
 const summonsRoutes = require('./api/routes/summons')
@@ -12,4 +13,8 @@ mongoose.connect(
   {useNewUrlParser: true}
 )
 
-module.exports = router
+const port = process.env.PORT|| 3000
+
+app.listern(port, () => {
+  console.log(`server on port ${port}`)
+})

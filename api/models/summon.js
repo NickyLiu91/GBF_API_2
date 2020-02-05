@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const accountSchema = mongoose.Schema({
+const summonSchema = mongoose.Schema({
   _id: mongoose.Schema.Types.ObjectId,
   summontype: String,
   rarity: String,
@@ -9,4 +9,4 @@ const accountSchema = mongoose.Schema({
   eventtype: String
 });
 
-module.exports = mongoose.model('Account', accountSchema);
+module.exports = mongoose.model('Summon', summonSchema);
