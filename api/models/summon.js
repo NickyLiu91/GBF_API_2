@@ -6,7 +6,6 @@ const accountSchema = mongoose.Schema({
   rarity: String,
   character: String,
   weapon: String,
-  summon: String,
   eventtype: String
 });
 
