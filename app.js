@@ -9,12 +9,14 @@ app.use('/', summonsRoutes)
 app.use(express.json());
 
 mongoose.connect(
-  "mongodb+srv://uthor123:<password>@cluster0-hnegv.mongodb.net/test?retryWrites=true&w=majority",
-  {useNewUrlParser: true}
+  "mongodb+srv://uthor123:orianna666@cluster0-hnegv.mongodb.net/test?retryWrites=true&w=majority",
+  { useUnifiedTopology: true }
 )
 
 const port = process.env.PORT|| 3000
 
-app.listern(port, () => {
+app.listen(port, () => {
   console.log(`server on port ${port}`)
 })
+
+// module.exports = router

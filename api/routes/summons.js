@@ -61,3 +61,5 @@ router.post("/api/summons", (req, res) => {
     })
   });
 })
+
+module.exports = router
