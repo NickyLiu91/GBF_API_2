@@ -2,7 +2,7 @@ const express = require('express')
 const router = express.Router()
 const mongoose = require('mongoose')
 
-const summonRoutes = require('../models/summon')
+const Summon = require('../models/summon')
 
 router.get("/api/summons", (req, res) => {
   Summon.find()
@@ -17,6 +17,10 @@ router.get("/api/summons", (req, res) => {
       error: err
     })
   })
+  // res.json({
+  //   status: 'API ITS WORKING',
+  //   message: '???????????'
+  // })
 })
 
 router.get("/api/summons/:id", (req, res) => {

@@ -8,9 +8,10 @@ app.use(bodyparser.json())
 app.use('/', summonsRoutes)
 app.use(express.json());
 
+mongoose.set('useUnifiedTopology', true)
+
 mongoose.connect(
-  "mongodb+srv://uthor123:orianna666@cluster0-hnegv.mongodb.net/test?retryWrites=true&w=majority",
-  { useUnifiedTopology: true }
+  { useNewUrlParser: true }
 )
 
 const port = process.env.PORT|| 3000
