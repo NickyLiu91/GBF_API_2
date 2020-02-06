@@ -43,7 +43,7 @@ router.get("/api/summons/:id", (req, res) => {
 
 router.post("/api/summons", (req, res) => {
   const summon = new Summon({
-    _id: mongoose.Schema.Types.ObjectId,
+    _id: new mongoose.Types.ObjectId(),
     summontype: req.body.summontype,
     rarity: req.body.rarity,
     character: req.body.character,
@@ -59,7 +59,7 @@ router.post("/api/summons", (req, res) => {
     })
   })
   .catch(err => {
-    console.log(error)
+    console.log(err)
     res.status(500).json({
       error: err
     })
