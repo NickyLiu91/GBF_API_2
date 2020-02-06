@@ -1,0 +1,611 @@
+{"summontype": ""character"", "weapon": "Ramulus", "eventtype": "Grand", "character": "Anila", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Purifying Thunderbolt", "eventtype": "Flash", "character": "Shiva", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Delta Quartz", "eventtype": "Summer", "character": "Beatrix (Themed)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Lohengrin", "eventtype": "None", "character": "Percival", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ixaba", "eventtype": "Flash", "character": "Sturm", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Tanzanite Blade", "eventtype": "None", "character": "Therese (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Scarlet Crest Axe", "eventtype": "None", "character": "Yuel", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sacred Lance", "eventtype": "None", "character": "Athena", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Mobius Strip", "eventtype": "None", "character": "Clarisse", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Brahma Gauntlet", "eventtype": "None", "character": "Ghandagoza", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Draco Claw", "eventtype": "None", "character": "Grea", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Arjunan Bow", "eventtype": "Summer", "character": "Ilsa (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sunflower Wand", "eventtype": "Summer", "character": "Io (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Feendrache Pennant", "eventtype": "None", "character": "Lancelot and Vane", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Illusion Scepter", "eventtype": "None", "character": "Magisa", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Roseate Aetherial Bow", "eventtype": "None", "character": "Metera", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Antwerp", "eventtype": "Summer", "character": "Percival (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Two-by-Four", "eventtype": "None", "character": "Tsubasa", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Thunder Dirk Jove", "eventtype": "None", "character": "Agielba", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Magma Gauntlet", "eventtype": "None", "character": "Aliza", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Benedia", "eventtype": "Grand", "character": "Rackam (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Blushing Blossom Pin", "eventtype": "None", "character": "Societte (Fire)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Starblaze Rings", "eventtype": "None", "character": "Zahlhamelina", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Brionac", "eventtype": "None", "character": "Zeta", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Forbidden Inferno", "eventtype": "None", "character": "Anthuria", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Snack Pole", "eventtype": "Halloween", "character": "Danua (Halloween)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Luin", "eventtype": "None", "character": "Heles", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Delta Apex", "eventtype": "Halloween", "character": "Beatrix (Halloween)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Nature's Mystery", "eventtype": "None", "character": "Dante (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Glass Bow", "eventtype": "None", "character": "Sutera (Fire)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Kaiser Knuckles", "eventtype": "None", "character": "Alec", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Ember Blade", "eventtype": "None", "character": "Carren", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Dolphin", "eventtype": "None", "character": "Cucouroux", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Rope Knuckles", "eventtype": "Summer", "character": "Ghandagoza (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Wandering Blade", "eventtype": "None", "character": "Lucius (Fire)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Time-Tested Iron", "eventtype": "None", "character": "Rosine (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Crimson Talons", "eventtype": "None", "character": "Sen", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Scarlet Oath", "eventtype": "Valentine", "character": "Teena (Valentine)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Soulbound Dirk", "eventtype": "None", "character": "Teena", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Tanzanite Sword Mikoh", "eventtype": "None", "character": "Therese", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Arson Link", "eventtype": "None", "character": "Blazing Teacher Elmott", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Deathly Arson", "eventtype": "Summer", "character": "Elmott (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Red-Hot Noodles", "eventtype": "None", "character": "Ippatsu (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Signal Flare", "eventtype": "None", "character": "Karva (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Fire Piece", "eventtype": "None", "character": "Mary (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Massive Axe", "eventtype": "None", "character": "Ryan (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Witch's Broom", "eventtype": "None", "character": "Anna (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Custom Arquebus", "eventtype": "Summer", "character": "Jessica (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Cup and Saucer", "eventtype": "None", "character": "Dorothy", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Arson", "eventtype": "None", "character": "Elmott", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Chain Knuckles", "eventtype": "None", "character": "Ezecrain", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Mythril Bolt", "eventtype": "None", "character": "Aster", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Forest Hermit Staff", "eventtype": "None", "character": "Dante", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Derringer", "eventtype": "None", "character": "Barawa", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Cold Noodles", "eventtype": "Summer", "character": "Ippatsu (Summer)", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Little Scarlet", "eventtype": "None", "character": "Drusilla", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Flame Bow", "eventtype": "None", "character": "Flesselles", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Chopsticks", "eventtype": "None", "character": "Ippatsu", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Flame Bolt", "eventtype": "None", "character": "Karva", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Vintage Flat Iron", "eventtype": "None", "character": "Rosine", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Feather Wand", "eventtype": "None", "character": "Anna", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Torch", "eventtype": "None", "character": "Camieux", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Firecracker", "eventtype": "Summer", "character": "Mary (Summer)", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Soldier Axe", "eventtype": "None", "character": "Ryan", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Iron Pliers", "eventtype": "None", "character": "Viceroy", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Cursed Flame Candelabra", "eventtype": "Summer", "character": "Anna (Summer)", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Ghillie Fork", "eventtype": "None", "character": "Elmelaura", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Broken Bottle", "eventtype": "None", "character": "Lamretta (R)", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Petronel", "eventtype": "None", "character": "Mary", "rarity": "R"}
+
+{"summontype": ""character"", "weapon": "Dainsleif", "eventtype": "None", "character": "Altair", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Blue Sphere", "eventtype": "Flash", "character": "Drang", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Galilei's Insight", "eventtype": "Flash", "character": "Europa", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Draco Horn", "eventtype": "Summer", "character": "Grea (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Vlisragna", "eventtype": "None", "character": "Silva", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Canisius", "eventtype": "Grand", "character": "Vajra", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Izayoi", "eventtype": "None", "character": "Yuel (Water)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gottfried", "eventtype": "None", "character": "Aglovale", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Daemon's Spine", "eventtype": "None", "character": "Anne", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Stardust Holly Rod", "eventtype": "Holiday", "character": "Arulumaya (Holiday)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Claíomh Solais", "eventtype": "None", "character": "Charlotta", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Tlepilli", "eventtype": "Summer", "character": "Diantha (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Frostbite", "eventtype": "Summer", "character": "Izmir (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Nagelring", "eventtype": "None", "character": "Izmir", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Murgleis", "eventtype": "Grand", "character": "Katalina (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Hoarfrost Blade Persius", "eventtype": "None", "character": "Lancelot", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ice Crystal Staff", "eventtype": "None", "character": "Lily", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Raikiri", "eventtype": "Summer", "character": "Narmaya (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Taisai Spirit Bow", "eventtype": "Grand", "character": "Pholia", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Montague's Oath", "eventtype": "None", "character": "Romeo", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Blossom Axe", "eventtype": "None", "character": "Vane (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Meteora", "eventtype": "None", "character": "Yngwie", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Fudo-Kuniyuki", "eventtype": "None", "character": "Yodarha (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Phantom Thief Blade", "eventtype": "None", "character": "Chat Noir", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "White Hawk", "eventtype": "None", "character": "Cucouroux (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Metal Hand", "eventtype": "None", "character": "Lady Katapillar and Vira", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Melodic Sphere", "eventtype": "None", "character": "Lilele", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Froststar Staff", "eventtype": "None", "character": "Macula Marius", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Scarlet Vane", "eventtype": "None", "character": "Societte", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ain Soph", "eventtype": "Summer", "character": "Sandalphon (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sword of Sorcery", "eventtype": "None", "character": "Owen", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Aquarium Harp", "eventtype": "None", "character": "Ejaeli", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Ripple Rapier", "eventtype": "Summer", "character": "Katalina (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Aquablade", "eventtype": "None", "character": "Mina", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Epoxy Boogie Plates", "eventtype": "None", "character": "Cailana (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Floaty Sword", "eventtype": "Summer", "character": "Charlotta (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Royal Rapier", "eventtype": "None", "character": "Ange", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Water Balloons", "eventtype": "Summer", "character": "Camieux (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Ice Bough Staff", "eventtype": "None", "character": "Erin", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Macuahuitl", "eventtype": "Summer", "character": "Farrah (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Quarrel", "eventtype": "None", "character": "Sahli Lao", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Titanium Harpoon", "eventtype": "None", "character": "Sig", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Sunshade Parasol", "eventtype": "Summer", "character": "Suframare (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Narval", "eventtype": "None", "character": "Ulamnuran", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Bottle o' Blossoms", "eventtype": "None", "character": "Lamretta (Water)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Summer Beach Sphere", "eventtype": "Summer", "character": "Lilele (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Ice Bow", "eventtype": "None", "character": "Milleore", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Spritewood Staff", "eventtype": "None", "character": "Mishra", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Colorful Crackerjack", "eventtype": "None", "character": "Pengy", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Raging Halberd", "eventtype": "None", "character": "Vane", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Boogie Plates", "eventtype": "None", "character": "Cailana", "rarity": "R"}
+{"summontype": ""character"", "weapon": "White Sword", "eventtype": "None", "character": "Bridgette", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Tattoo Fist", "eventtype": "None", "character": "Randall", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Silver Pole", "eventtype": "None", "character": "Joel", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Snowman Rod", "eventtype": "None", "character": "Suframare", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Student Notebook", "eventtype": "None", "character": "Alistair", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Night Horn", "eventtype": "None", "character": "Deliford", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Shrimp Lure", "eventtype": "None", "character": "Yodarha", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Self Defender", "eventtype": "None", "character": "Richard", "rarity": "R"}
+
+{"summontype": ""character"", "weapon": "Mirror-Blade Shard", "eventtype": "Flash", "character": "Alexiel", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ancient Bandages", "eventtype": "None", "character": "Ayer", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ichigo Hitofuri", "eventtype": "Grand", "character": "Cain (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Neko Punch Pro", "eventtype": "None", "character": "Dante and Freiheit", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ascalon", "eventtype": "None", "character": "Siegfried", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Greatsword Andalius", "eventtype": "None", "character": "Aletheia", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gargantua", "eventtype": "None", "character": "Arulumaya", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ouroboros", "eventtype": "None", "character": "Cagliostro", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Thyrsus", "eventtype": "None", "character": "De La Fille (Earth)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Stratomizer", "eventtype": "None", "character": "Eustace", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Soul Eater", "eventtype": "None", "character": "Hallessena", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gallinarius", "eventtype": "Grand", "character": "Mahira", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Medusiana Staff", "eventtype": "Valentine", "character": "Medusa (Valentine)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Thorny Rose", "eventtype": "Summer", "character": "Rosetta (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sandcastle Song-Lume", "eventtype": "None", "character": "Sara", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Wurtzite Scythe", "eventtype": "None", "character": "Vaseraga (Earth)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Arsene", "eventtype": "None", "character": "Catherine", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Snow Mobius Strip", "eventtype": "Holiday", "character": "Clarisse (Holiday)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "AK-4A", "eventtype": "Grand", "character": "Eugen (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Nightmare Mobilizer", "eventtype": "Halloween", "character": "Eustance (Halloween)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gandiva", "eventtype": "None", "character": "Ilsa", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Mettle", "eventtype": "None", "character": "Nemone", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gae Derg", "eventtype": "None", "character": "Razia", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Wyrmtiger Claw", "eventtype": "None", "character": "Soriz (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Bella Aeterna", "eventtype": "None", "character": "Yggdrasil", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Euripedes", "eventtype": "None", "character": "Medusa", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Vassago", "eventtype": "None", "character": "Melleau", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Deep Desire", "eventtype": "Summer", "character": "Vira (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Spymur's Clause", "eventtype": "None", "character": "Baal", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Rainbow Hand", "eventtype": "None", "character": "Ladiva (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Tughril", "eventtype": "None", "character": "NezaHualpilli (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Tropical Punch", "eventtype": "Summer", "character": "Ayer", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Ram-Dao", "eventtype": "None", "character": "Gayne", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Shrike's Beak", "eventtype": "None", "character": "Jamil", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Flower Crown", "eventtype": "None", "character": "Jasmine (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Gold-Plated Fremel", "eventtype": "Summer", "character": "Almeida (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Prideful Sword", "eventtype": "None", "character": "Beatrix (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Great Hammer", "eventtype": "None", "character": "Galadar (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Grand Edge", "eventtype": "None", "character": "Herja (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Serpentine Longspear", "eventtype": "None", "character": "Leona", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Heavy-Duty Pumpkins", "eventtype": "Halloween", "character": "Mimlemel and Pun-Kin (Halloween)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Divine Spear", "eventtype": "None", "character": "Razia (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Giant Fork", "eventtype": "None", "character": "Redluck", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Ripple Harp", "eventtype": "Summer", "character": "Sara (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Impact Knuckles", "eventtype": "None", "character": "Soriz", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Macho Hunter "weapon"", "eventtype": "None", "character": "The Lowain Bros", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Fremel Hammer", "eventtype": "None", "character": "Almeida", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Demitasse", "eventtype": "None", "character": "Catherine (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Silver Rings", "eventtype": "Summer", "character": "J.J. (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Handy Arquebus", "eventtype": "None", "character": "Jessica", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Tyrian Tiger Blade", "eventtype": "Summer", "character": "Jin (Themed)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Metal Glove", "eventtype": "None", "character": "Ladiva", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Zhonpeli", "eventtype": "None", "character": "Lamretta", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Mythril Tonfa", "eventtype": "None", "character": "Vanzza (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Sudarshana", "eventtype": "None", "character": "Carmelina (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Golden Mop", "eventtype": "None", "character": "Claudia", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Desert Arms", "eventtype": "Summer", "character": "Egen (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Dreadflayer", "eventtype": "None", "character": "Laguna", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Flare Glaive", "eventtype": "None", "character": "Mariah", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Holy Harp", "eventtype": "Holiday", "character": "Rackam (Holiday)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Sword of Lisblanc", "eventtype": "None", "character": "Farrah (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Iron Guard", "eventtype": "None", "character": "Balurga", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Heavy Metal Comb", "eventtype": "None", "character": "La Coiffe", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Rubia Rod", "eventtype": "None", "character": "Camieux (Earth)", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Draph Hammer", "eventtype": "None", "character": "Galadar", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Xiphos", "eventtype": "None", "character": "Volenna", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Sawed-Off Shotgun", "eventtype": "None", "character": "Garma", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Two-Handed Sword", "eventtype": "None", "character": "Herja", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Oven Mitts", "eventtype": "None", "character": "Nene", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Stone Pole", "eventtype": "None", "character": "Norcel", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Tonfa", "eventtype": "None", "character": "Vanzza", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Fire Sword", "eventtype": "None", "character": "Farrah", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Taiaha", "eventtype": "None", "character": "Jasmine", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Wooden Dagger", "eventtype": "Summer", "character": "Walder (Summer)", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Tree Wand", "eventtype": "Holiday", "character": "Walder (Holiday)", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Main Gauche", "eventtype": "None", "character": "Walder", "rarity": "R"}
+
+{"summontype": ""character"", "weapon": "Dormius", "eventtype": "Grand", "character": "Andira", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Vortex of the Void", "eventtype": "Flash", "character": "Grimnir", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Deirdre's Symbol", "eventtype": "None", "character": "Heles (Wind)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Orleans Standard", "eventtype": "Summer", "character": "Jeanne d'Arc (Themed)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Reunion", "eventtype": "Grand", "character": "Lecia (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Returner Staff", "eventtype": "None", "character": "Yurius", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Windflash", "eventtype": "None", "character": "Gawain", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Wing of the Pure", "eventtype": "None", "character": "Korwa", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Heiliges Schwert", "eventtype": "None", "character": "Lancelot (Wind)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Far Away", "eventtype": "None", "character": "Lennah", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Split End", "eventtype": "None", "character": "Melissabelle", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Aetherial Bow", "eventtype": "None", "character": "Metera", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Pilum", "eventtype": "None", "character": "Nezahualpilli", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Love Eternal", "eventtype": "Grand", "character": "Rosetta (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Deirdre's Claws", "eventtype": "None", "character": "Scathacha", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Cythara Anglica", "eventtype": "None", "character": "Selfira", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Galactic Impact", "eventtype": "None", "character": "Sen (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sinensis", "eventtype": "Summer", "character": "Siegfried (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Another Sky", "eventtype": "None", "character": "Vira (Wind)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Crimson Sapphire", "eventtype": "Summer", "character": "Yuel (Themed)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Yyrkoon", "eventtype": "None", "character": "Yuisis", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Cords of Heaven Lillah", "eventtype": "None", "character": "Arriet", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Heroic Bow", "eventtype": "None", "character": "Feena", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Bell of Happy Endings", "eventtype": "Summer", "character": "Korwa (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Heaven's Cloud", "eventtype": "None", "character": "Petra (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Tiamat Bolt Prime", "eventtype": "None", "character": "Tiamat", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Turpin Spear", "eventtype": "None", "character": "Carmelina", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Turpin Spear", "eventtype": "None", "character": "Morrigna", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Kilij", "eventtype": "None", "character": "Juri", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Unsigned Blade", "eventtype": "None", "character": "Mirin", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Zanbato", "eventtype": "None", "character": "Sevilbarra", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Festive Frying Pan", "eventtype": "Holiday", "character": "Yaia (Holiday)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Tilvung", "eventtype": "None", "character": "Helnar", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "White Flag", "eventtype": "None", "character": "Mimlemel and Stumpeye", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "White Talons", "eventtype": "Holiday", "character": "Sen (Holiday)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Holy Axe", "eventtype": "None", "character": "Sevastien", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Sutera's Bow", "eventtype": "None", "character": "Sutera", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Summer Souteyrand", "eventtype": "Summer", "character": "Yuisis (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Balisarde", "eventtype": "None", "character": "Arthur and Mordred", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Seaside Memory", "eventtype": "Summer", "character": "Chloe (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Shadow Scepter", "eventtype": "None", "character": "Goblin Mage", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Merciless Chastening", "eventtype": "None", "character": "Hazen (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Silver Fan", "eventtype": "None", "character": "Karteira (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Stravaria", "eventtype": "None", "character": "Keehar", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Tiger Fang", "eventtype": "None", "character": "Mimlemel", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Standard Albion Bolt", "eventtype": "None", "character": "Tyre", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Cloud Tomahawk", "eventtype": "None", "character": "Eso (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Skirt Chaser", "eventtype": "Summer", "character": "Helnar (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Priate Sword", "eventtype": "Summer", "character": "Lecia (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Songsmith's Harp", "eventtype": "None", "character": "Elta", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Jeunesse", "eventtype": "None", "character": "Korwa (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Enchanted Nail", "eventtype": "None", "character": "Chloe", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Practice Sword", "eventtype": "None", "character": "Thelonim", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Paper Fan", "eventtype": "None", "character": "Karteira", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Moss Tree Staff", "eventtype": "None", "character": "Petra", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Lightbringer", "eventtype": "None", "character": "Stan", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Sky Tomahawk", "eventtype": "None", "character": "Eso", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Mythril Knuckles", "eventtype": "None", "character": "Hazen", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Dark Sword", "eventtype": "None", "character": "Leonora", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Light Buckler", "eventtype": "None", "character": "Pavidus", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Old Sword", "eventtype": "None", "character": "Krugne", "rarity": "R"}
+
+{"summontype": ""character"", "weapon": "Hauteclaire", "eventtype": "None", "character": "Albert", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Claidheamh Soluis", "eventtype": "None", "character": "Charlotta (Light)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Fusion Mobius", "eventtype": "None", "character": "Clarisse (Light)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Eden", "eventtype": "Flash", "character": "Lucio", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Pinkie Needle", "eventtype": "Holiday", "character": "Metera (Holiday)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Conifer", "eventtype": "Summer", "character": "Naoise (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Railgun", "eventtype": "None", "character": "Robomi", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Hrotti", "eventtype": "None", "character": "Sereul", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Certificus", "eventtype": "Flash", "character": "Vira (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Dragon Slayer", "eventtype": "None", "character": "Amira", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gothic Cutlery", "eventtype": "None", "character": "Dorothy and Claudia", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ethereal Lasher", "eventtype": "None", "character": "Ferry (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Crystal Luin", "eventtype": "Summer", "character": "Heles (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gambanteinn", "eventtype": "Grand", "character": "Io (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Caladbolg", "eventtype": "None", "character": "Jeanne d'Arc", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Capulet's Oath", "eventtype": "None", "character": "Juliet", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Porculius", "eventtype": "Grand", "character": "Kumbhira", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Levin Shooter", "eventtype": "None", "character": "Levin Sisters", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Jolly Starcracker", "eventtype": "Holiday", "character": "Mary (Holiday)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Twin Helix", "eventtype": "None", "character": "Rosamia (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sealed Claustrum", "eventtype": "None", "character": "Sarunan", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Full Metal Recoil", "eventtype": "None", "character": "Silva (Light)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Cletine", "eventtype": "Summer", "character": "Zeta (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ruler of Fate", "eventtype": "None", "character": "Zooey", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Symbol of Justice", "eventtype": "None", "character": "Baotorda (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Kerykeion", "eventtype": "None", "character": "De La Fille", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Diamond Edge", "eventtype": "Summer", "character": "De La Fille (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sword on the Cob", "eventtype": "Valentine", "character": "Melissabelle (Valentine)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ocean Harp", "eventtype": "None", "character": "Sophia", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sharp Letter", "eventtype": "Summer", "character": "Halluel and Malluel (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Jack-O'-Brand", "eventtype": "Halloween", "character": "Charlotta (Halloween)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Heavy Blast Knuckles", "eventtype": "None", "character": "Feather (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Lance d'Espoir", "eventtype": "None", "character": "Jeanne d'Arc (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Samurai Sword", "eventtype": "None", "character": "Mirin (Light)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "True Teardrop", "eventtype": "None", "character": "Vermeil (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Aerial Cane", "eventtype": "None", "character": "Arusha", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Winter Wonderbow", "eventtype": "Holiday", "character": "Feena (Holiday)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Wind-Rhyme Staff", "eventtype": "None", "character": "Noa", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Soothing Torch", "eventtype": "None", "character": "Rosamia (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Staff of the Star Seeker", "eventtype": "None", "character": "Sophia (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Arondight", "eventtype": "None", "character": "Baotorda", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Crocskin Glove", "eventtype": "None", "character": "Barawa (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Golden Woofer", "eventtype": "None", "character": "Daetta (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Sacred Codex", "eventtype": "None", "character": "Johann", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Holy Glove", "eventtype": "Holiday", "character": "Ladiva (Holiday)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Humming Bard", "eventtype": "None", "character": "Elta (Light)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Aura Whip", "eventtype": "Halloween", "character": "Ferry (Halloween)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Soul Edge", "eventtype": "None", "character": "Ferry", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Misanga Bracelet", "eventtype": "None", "character": "J.J.", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Slingshot", "eventtype": "None", "character": "Sarya", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Staff of Refusal", "eventtype": "None", "character": "Philosophia (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Lumiel Banner", "eventtype": "None", "character": "Bridgette and Cordelia", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Blue Crest", "eventtype": "None", "character": "Cordelia", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Prism Tear", "eventtype": "None", "character": "Vermeil", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Morning Star", "eventtype": "None", "character": "Daetta", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Light Staff", "eventtype": "None", "character": "Philosophia", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Blast Knuckles", "eventtype": "None", "character": "Feather", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Thunder Rapier", "eventtype": "None", "character": "Rosamia", "rarity": "R"}
+
+{"summontype": ""character"", "weapon": "Cute Ribbon", "eventtype": "Flash", "character": "Zooey (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Shadow Viperlance", "eventtype": "None", "character": "Azazel", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Unheil", "eventtype": "Grand", "character": "Ferry (Grand)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Disparia", "eventtype": "None", "character": "Jeanne d'Arc (Dark)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Distant Requiem", "eventtype": "Halloween", "character": "Lady Grey (Halloween)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Venustas", "eventtype": "None", "character": "Narmaya", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Fallen Sword", "eventtype": "Flash", "character": "Olivia", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Parazonium", "eventtype": "Flash", "character": "Orchid", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Master Key", "eventtype": "None", "character": "Wulf and Renie", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gram", "eventtype": "None", "character": "Beatrix", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Blutgang", "eventtype": "Flash", "character": "Black Knight", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Silphium", "eventtype": "Valentine", "character": "Clarisse (Valentine)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ishtar", "eventtype": "None", "character": "Eustace (Dark)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ukonvasara", "eventtype": "None", "character": "Lady Grey", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gigante Slicer", "eventtype": "None", "character": "Nicholas", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gandring", "eventtype": "None", "character": "Tanya (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Azoth", "eventtype": "None", "character": "Vania", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Mistilteinn", "eventtype": "None", "character": "Vaseraga", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Bloody Scar", "eventtype": "None", "character": "Veight", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Lyst Sin", "eventtype": "None", "character": "Vira (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sunspot Spear", "eventtype": "None", "character": "Zeta (Dark)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Black Ouroboros", "eventtype": "None", "character": "Cagliostro (Dark)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Coco & Mimi", "eventtype": "None", "character": "Cerberus", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Mikazuki", "eventtype": "Summer", "character": "Danua (Summer)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Skyrend Spear", "eventtype": "None", "character": "Forte", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ruling Pen", "eventtype": "None", "character": "Lunalu (SSR)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gridarvor", "eventtype": "None", "character": "Marquiares", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Rosen Maiden", "eventtype": "Holiday", "character": "Rosetta (Holiday)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ouroboros Treat", "eventtype": "Halloween", "character": "Cagliostro (Halloween)", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Arachne", "eventtype": "None", "character": "Freezie", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Vagabond", "eventtype": "None", "character": "Kolulu", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Summer Night Peak", "eventtype": "Summer", "character": "Arulumaya (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Phantom Gauntlet", "eventtype": "Halloween", "character": "Feather (Halloween)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Cruel Claw", "eventtype": "None", "character": "Predator", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Genius Squared", "eventtype": "None", "character": "Skull", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Vampire's Nail", "eventtype": "None", "character": "Vania (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Cursed Cane", "eventtype": "None", "character": "Will (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Puppet Knife", "eventtype": "None", "character": "Danua", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Brocken Lance", "eventtype": "None", "character": "Deliford (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Katzbalger", "eventtype": "None", "character": "Jamil (Dark)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Voulge", "eventtype": "None", "character": "Zaja", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Purity Blade", "eventtype": "None", "character": "Lucius", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Silver Shotel", "eventtype": "None", "character": "Randall (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Shade Knife", "eventtype": "Summer", "character": "Tanya (Summer)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Wyrm Claw", "eventtype": "None", "character": "Tanya (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Dracula Harp", "eventtype": "Halloween", "character": "Ange (Halloween)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Confection Cutter", "eventtype": "Valentine", "character": "Narmaya (Valentine)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Scalpel", "eventtype": "None", "character": "Shao", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Hunter's Rifle", "eventtype": "None", "character": "Ludmila", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Goldie", "eventtype": "None", "character": "Richard (SR)", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Night Bell", "eventtype": "None", "character": "Lunalu", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Night Air Bell", "eventtype": "Summer", "character": "Lunalu (Summer)", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Switchblade", "eventtype": "None", "character": "Lowain", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Cleaver", "eventtype": "Summer", "character": "Lowain (Summer)", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Bronze Bell", "eventtype": "None", "character": "Bakura", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Bloody Piercer", "eventtype": "None", "character": "Tanya", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Mandau", "eventtype": "None", "character": "Zehek", "rarity": "R"}
+{"summontype": ""character"", "weapon": "The Cross", "eventtype": "None", "character": "Will", "rarity": "R"}
+
+
+{"summontype": ""character"", "weapon": "Fragarach", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Almace", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Ilhoon", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Twisted Dagger", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Mirage Knife", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Stiletto", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Fusetto", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Sword Breaker", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Trident", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Partisan", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Dragonfliar Cutter", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Shura Vhara", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Vajranda", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Bullova", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Shoka", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Horseman's Hammer", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Yagrush", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Pastoral Staff", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Holy Cane", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Dragon Tail", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Wheellock Axe", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Crosswind", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Snaphance", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Swallowtail", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Mauler", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Neko Punch", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Jamadhar", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Imperial Bow", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Sarnga", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Aves", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Elfin Bow", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Shadow Bow", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Athanasius", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Iron Tiger", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Fluorithium Blade", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Sauria", "eventtype": "None", "character": "None", "rarity": "SR"}
+
+{"summontype": ""character"", "weapon": "Garnet Carbuncle", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Hellhound", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Hydra", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Vrazarek Firewyrm", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Angelie Cascade", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Aquamarine Carbuncle", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Wilinus Icewyrm", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Clay Golem", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Doomworm", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Golem", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Myconid", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Ruination Gargoyle", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Stone Golem", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Zircon Carbuncle", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Elmenhilde Windsprite", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Elusious Windwyrm", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Griffin", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Wyvern", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Opal Carbuncle", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Pixie", "eventtype": "None", "character": "None", "rarity": "SR"}
+{"summontype": ""character"", "weapon": "Onyx Carbuncle", "eventtype": "None", "character": "None", "rarity": "SR"}
+
+{"summontype": ""character"", "weapon": "Anelace", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Claymore", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Falchion", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Flame Rapier", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Ice Sword", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Icey Nail", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Earth Cutlass", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Fire Baselard", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Kila", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Mailbreaker", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Water Kukri", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Kris", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Emerald Dagger", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Leaf Dagger", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Holy Kris", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Assassin's Dagger", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Dark Knife", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Couse", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Fire Glaive", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Flame Halberd", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Langdebeve", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Aquan Killer", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Earth Halberd", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Halberd", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Harvester", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Battle Axe", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Earth Zaghnal", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Rock Hammer", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Wind Axe", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Tabar", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Thunder Kalinga Axe", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Neckchopper", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Cane", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Ocean Rod", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Water Rod", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Feather Staff", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Emerald Cane", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Wind Rod", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Shareeravadi", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Evil Wand", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Grenade", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Matchlock", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Straight Anchor", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Ranger Pistol", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Hand Pistol", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Jezail", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Fireball", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Heated Pata", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Pata", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Fish Tooth", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Gauntlet", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Tidal Wraps", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Rock Cutter", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Mythril Baghnakhs", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Whirlwind Wraps", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Composite Bow", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Mythril Bow", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Longbow", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Earth Bow", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Power Bow", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "War Bow", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Wrapped Bow", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Lyre of Lamia", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Nodachi", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Mythril Katana", "eventtype": "None", "character": "None", "rarity": "R"}
+
+{"summontype": ""character"", "weapon": "Minotaur", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Twilight Devil", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Venom Lancer", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Walking Torch", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Angelie", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Crusher", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Jawfish", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Purgatorian", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Rivacuda", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Slime", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Swordshark", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Bonethorn", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Crawler", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Lumacie Griffin", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Mandrake", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Sleepyhead", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Belle", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Dragonflair", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Hornbird", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Rodfly", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Ghost Light", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Cave Bat", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Imp", "eventtype": "None", "character": "None", "rarity": "R"}
+{"summontype": ""character"", "weapon": "Skeleton", "eventtype": "None", "character": "None", "rarity": "R"}
+
+{"summontype": ""character"", "weapon": "Agni", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Athena (Summon)", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Michael", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Prometheus", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Satyr", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sethlans", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Shiva (Summon)", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sylph, Flutterspirit of Purity", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Twin Elements", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Zaoshen", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Bonito", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ca Ong", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Europa (Summon)", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gabriel", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Grani", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Kaguya", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Macula Marius (Summon)", "eventtype": "Summer", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Neptune", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Oceanus", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Poseidon, the Tide Father", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Snow White", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Varuna", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Ankusha", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Baal (Summon)", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Cybele", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gilgamesh", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Godsword Alexiel", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Gorilla", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Marduk, Battlefield Reaper", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Medusa (Summon)", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Tezcatlipoca", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Titan", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Uriel", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Anat, for Love and War", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Demonbream", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Freyr", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Garuda", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Garula, Shining Hawk", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Grimnir (Summon)", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Hamsa", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Morrigna (Summon)", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Nezha", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Quetzalcoatl", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Raphael", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Rose Queen", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Setekh", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Siren", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Zephyrus", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Adramalech", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Aphrodite", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Apollo", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Grand Order", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Halluel and Malluel", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Hector", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Lucifer", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Magus, Triad of Wisdom", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Odin", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Thor", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Vortex Dragon", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Zeus", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Anubis", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Bahamut", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Cerberus, Hellhound Trifecta", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Dark Angel Olivia", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Hades", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Lich", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Nacht", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Sariel", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Satan", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Tsukuyomi", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Typhon", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Metatron", "eventtype": "None", "character": "None", "rarity": "SSR"}
+{"summontype": ""character"", "weapon": "Yggdrasil (Summer)", "eventtype": "Summer", "character": "None", "rarity": "SSR"}
