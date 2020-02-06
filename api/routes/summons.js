@@ -1,10 +1,25 @@
 const express = require('express')
 const router = express.Router()
 const mongoose = require('mongoose')
+const bodyparser = require('body-parser')
 
 const Summon = require('../models/summon')
 
-router.get("/api/summons", (req, res) => {
+const cors = require('cors')
+const app = express()
+
+app.use(cors())
+app.use(bodyparser.json())
+
+app.get('/products/:id', function (req, res, next) {
+  res.json({msg: 'This is CORS-enabled for all origins!'})
+})
+
+app.listen(3000, function () {
+  console.log('CORS-enabled web server listening on port 3000')
+})
+
+app.get("/api/summons", (req, res) => {
   Summon.find()
   .exec()
   .then(docs => {
@@ -23,7 +38,7 @@ router.get("/api/summons", (req, res) => {
   // })
 })
 
-router.get("/api/summons/:id", (req, res) => {
+app.get("/api/summons/:id", (req, res) => {
   const id = req.params.id
   Summon.findById(id)
   .exec()
@@ -41,7 +56,7 @@ router.get("/api/summons/:id", (req, res) => {
   })
 })
 
-router.post("/api/summons", (req, res) => {
+app.post("/api/summons", (req, res) => {
   const summon = new Summon({
     _id: new mongoose.Types.ObjectId(),
     summontype: req.body.summontype,
